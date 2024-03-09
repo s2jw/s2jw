@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=C&logoColor=ffdd54)
