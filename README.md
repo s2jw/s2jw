@@ -1,6 +1,7 @@
 ### Choi Jeongwon
-<h6>🏫 Computer Science Engineering, Kyungpook National University, South Korea</h6>
-<h6>🎨 Digital Art Convergence Major</h6>
+<h6>🏫 Computer Science Engineering, Kyungpook National University, South Korea
+<br>🎨 Digital Art Convergence Major</h6>
+
 
 <!--
 **s2jw/s2jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
