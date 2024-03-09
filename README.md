@@ -1,4 +1,5 @@
-### jeongwon
+### jeongwon choi
+<h6>🏫 Computer Science Engineering, Kyungpook National University, South Korea</h6>
 
 <!--
 **s2jw/s2jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
