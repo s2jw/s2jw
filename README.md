@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h1>⚒️ SKILL</h1>
+<h3>⚒️ SKILL</h3>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
