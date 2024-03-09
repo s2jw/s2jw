@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=C&logoColor=ffdd54)
+
+<br>
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
