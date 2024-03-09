@@ -1,4 +1,4 @@
-### jeongwon choi
+### Choi Jeongwon
 <h6>🏫 Computer Science Engineering, Kyungpook National University, South Korea</h6>
 
 <!--
